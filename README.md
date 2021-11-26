@@ -1,4 +1,4 @@
-# Interview-test
+# Wordpress assignment
 
 Introduction
 
