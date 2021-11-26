@@ -15,7 +15,7 @@ If you don’t have a local environment, you can create one with a tool such as 
 
 **Assets:**
 
-You can find the PSD file attached in this repository.
+In this repository you will find all the files needed. If you cloned it they should be in the same folder.
 
 
 **Delivery:**
@@ -27,7 +27,7 @@ Share the source code in a private Git repository of your making ( GitHub, GitLa
 
 -The main goal is to create Gutenberg blocks in Wordpress according to the design
 
--You can create your own theme or use a theme of your choice
+-Create your own theme
 
 -Create a Gutenberg block - all the text, buttons and background images must be editable in WP admin panel
 
