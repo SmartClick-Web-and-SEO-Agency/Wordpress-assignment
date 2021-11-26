@@ -25,18 +25,25 @@ Share the source code in a private Git repository of your making ( GitHub, GitLa
 
 **Scoping:**
 
--The main goal is to create Gutenberg blocks in Wordpress according to the design.
+-The main goal is to create Gutenberg blocks in Wordpress according to the design
+
 -You can create your own theme or use a theme of your choice
+
 -Create a Gutenberg block - all the text, buttons and background images must be editable in WP admin panel
+
 -You don't need to finish the entire design, two or three sections would suffice
 
 
 **Requirements:**
 
 -Your code must be pushed to a private Git repository - you can create a repository in GitHub or GitLab and then share it with us when you are done
+
 -Download the latest version of WordPress
+
 -You must use ACF (advanced custom fields) plugin to create the Gutenberg Block
+
 -You must use Bootstrap framework
+
 -You must use SCSS for creating the styles
 
 
