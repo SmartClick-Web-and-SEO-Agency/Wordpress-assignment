@@ -6,31 +6,31 @@ Welcome to the test assignment for the WordPress position. Before starting pleas
 Good luck!
 
 
-What you need to do
+What you need to do:
 
 Take the design provided in the Assets section and implement the steps in the Scoping section according to the design. See the remaining section in this document for additional guidelines.
 You will work in your own environment and at the end you will share the results with us by showing your source code.
 If you don’t have a local environment, you can create one with a tool such as Local.
 
 
-Assets
+Assets:
 
 https://old.smartclick.mk/wp-content/uploads/2020/03/test-for-web-dev.jpg
 
 
-Delivery
+Delivery:
 
 Share the source code in a private Git repository of your making ( GitHub, GitLab or BitBucket)
 
 
-Scoping
+Scoping:
 
 The main goal is to create Gutenberg blocks in Wordpress according to the design.
 You can create your own theme or use a theme of your choice
 Create a Gutenberg block - all the text, buttons and background images must be editable in WP admin panel
 
 
-Requirements
+Requirements:
 
 Your code must be pushed to a private Git repository - you can create a repository in GitHub or GitLab and then share it with us when you are done
 Download the latest version of WordPress
@@ -39,7 +39,7 @@ You must use Bootstrap framework
 You must use SCSS for creating the styles
 
 
-Scoring criteria
+Scoring criteria:
 
 We value good practices and attention to detail. The results should look good, behave as expected and the code should be easy to maintain and extend.
 
