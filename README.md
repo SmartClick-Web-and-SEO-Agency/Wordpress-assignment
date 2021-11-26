@@ -8,14 +8,14 @@ Good luck!
 
 **What you need to do:**
 
-Take the design provided in the Assets section and implement the steps in the Scoping section according to the design. See the remaining section in this document for additional guidelines.
+Take the design provided in the Assets section and implement the steps in the Scoping section according to the design. See the remaining sections in this document for additional guidelines.
 You will work in your own environment and at the end you will share the results with us by showing your source code.
 If you don’t have a local environment, you can create one with a tool such as Local.
 
 
 **Assets:**
 
-https://old.smartclick.mk/wp-content/uploads/2020/03/test-for-web-dev.jpg
+You can find the PSD file attached in this repository.
 
 
 **Delivery:**
